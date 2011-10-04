@@ -1,1 +1,22 @@
-<h1>client-toolset</h1>
+
+What is client-toolset?
+******************
+
+Client toolset is a Javascript library for wrapping implementaions into conceptual abstractions for cleaner code
+in main JS application.
+
+
+Why another library?
+*******************************
+
+Actually, clean wrapper libraries are hard to find, and they provide an easier life for the application focused
+programmer which want to keep their head off implementaion term focused API's.
+
+How to install:
+***************
+
+Well, simply add library with an ordinary script tag after all required libraries.
+
+
+All the best,
+Jørund Nydal
