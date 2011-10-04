@@ -4,9 +4,12 @@ What is client-toolset?
 Client toolset is a Javascript library for wrapping implementaions into conceptual abstractions for cleaner code
 in main JS application.
 
+Library requires jQuery 1.62
+
 Contains:
 
   * DialogHandler 1.0
+    -uses jQuery fancybox plugin
   * TooltipHandler 1.0
   * ServerHandler 1.0
 
